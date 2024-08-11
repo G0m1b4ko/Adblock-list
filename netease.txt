@@ -1,0 +1,5 @@
+@@||iadmusicmat.music.126.net^
+@@||interface.music.163.com^
+/^(\S+\.)eapi/ad/config/get\./
+@@||m.ads.8le8le.com^
+/^(\S+\.)adShow\./
